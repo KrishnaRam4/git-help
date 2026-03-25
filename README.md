@@ -26,21 +26,21 @@ repository link = **origin**
 > git config --list   
 
 # GitHub to local repository
-git clone [repository link]   
-git add .   
-git commit -m "text message"   
-git pull   
-git status   
+> git clone [repository link]   
+> git add .   
+> git commit -m "text message"   
+> git pull   
+> git status   
 
 # Local repository to GitHub
-# Sane name repository, local folder
-git init   
-git add .   
-git commit -m "text message"   
-git branch -a   
-git branch -M main (or) git branch new_branch   
-git checkout main   
-git remote add origin [repository link]   
-git push -u origin main   
+**Sane name repository, local folder**
+> git init   
+> git add .   
+> git commit -m "text message"   
+> git branch -a   
+> git branch -M main (or) git branch new_branch   
+> git checkout main   
+> git remote add origin [repository link]   
+> git push -u origin main   
 
-u - changes files only upload   
+**u** - changes files only upload   
