@@ -10,7 +10,7 @@
 * store, manage, collaborate (cloud)
 ---
 # Concepts
-Repository: A folder where Git tracks your project and its history\n
+Repository: A folder where Git tracks your project and its history   
 Clone: Make a copy of a remote repository on your computer
 Stage: Tell Git which changes you what to save next (add)
 Commit: Save a snapshot of your staged changes
