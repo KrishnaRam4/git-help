@@ -1,0 +1,29 @@
+Markup
+
+1. **Bold**
+2. _italic_
+3. Normal Text
+4. Soft Break - 3 spaces add with end line (New line)
+5. Hard Break - pass next line
+6. Heading -
+  # Heading 1
+  ## Heading 2
+  ### Heading 3
+  #### Heading 4
+  ##### Heading 5
+  ###### Heading 6
+7. Link
+  [some text](source link)
+8. Image
+  ![alternative name](image link)
+9. Black Quotes 
+  > some text
+10. List
+    Order list
+      1. One
+      1. Two
+      1. Three
+    Unorder list
+      * One
+      * Two
+      * Three
