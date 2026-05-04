@@ -44,3 +44,8 @@ repository link = **origin**
 > git push -u origin main   
 
 **u** - changes files only upload   
+
+# Delete a branch
+> git branch -D <branch name>
+
+---
