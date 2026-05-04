@@ -46,6 +46,6 @@ repository link = **origin**
 **u** - changes files only upload   
 
 # Delete a branch
-> git branch -D <branch name>
+> git branch -D `<branch name>`
 
 ---
